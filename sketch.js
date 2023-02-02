@@ -29,14 +29,14 @@ function setup() {
   var ball_options = {
     //write a code to set value of restitution such that:
 //Ball (white circle) bounces more when it hits the bottom.
- restitution: 0.80 
+ restitution: 1.20 
 
   }
 
   var rock_options = {
    // write a code to set value of restitution such that:
    // Rock (Red Circle) bounces less when it hits the bottom.
-   restitution: 0.60
+   restitution: 1.00
   }
 
    
